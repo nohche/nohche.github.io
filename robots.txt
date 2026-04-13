@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vipmedmoscow.ru/sitemap.xml
